@@ -1,2 +1,0 @@
-# Trekking-Management-App-V2
-This is a trekking management system for institutes to automate trek creation, bookings, staff assignments, and participant tracking, with role-based portals for admins, staff, and trekkers plus scheduled reminders and activity reports.
